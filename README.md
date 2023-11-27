@@ -1,4 +1,4 @@
-# HYPERSDK Custom VM
+# Hyper SDK Custom VM
 
 ## Description
 Setting up and running a HyperChain using the Avalanche network. This project provides a simple and straightforward process to initialize, configure, and interact with your own HyperChain.
@@ -95,4 +95,4 @@ If you encounter any issues, refer to the README file or run the appropriate com
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
